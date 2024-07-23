@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+}
+.wrapper-main{
+    margin: 0 20vw;
+}
+.wrapper-gallery{
+    margin: 0 20vw;
+}
+p{
+    font-family: Arial; font-size: 16px; color: white;
+}
+h3{
+    font-family: Arial; font-size: 32px; color: white;
+}
+/*page style*/
+#header-main nav{
+    display: grid;
+    grid-template-columns: 240px 3fr;
+    grid-template-rows: auto;
+    padding-bottom: 60px;
+}
+
+#header-main nav img{
+    height: 50px; margin: 25px 0; border-radius: 50px;
+}
+
+#header-main nav ul{
+    justify-self: end;
+}
+#header-main nav ul li{
+    display: inline-block; list-style: none; justify-self: end; margin: 40px 0 40px 30px; font-size: 20px; text-decoration: none;
+}

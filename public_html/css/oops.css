@@ -1,0 +1,22 @@
+/* Styles entire webpage */
+
+*{ background: yellowgreen;
+    padding: 0;
+margin: 0;
+}
+/* aligns our heading  */
+h1{
+    text-align: center;
+}
+
+/* aligns our image at center*/
+#oops{
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+}
+/* aligns smaller headlines to center*/
+h3, h2{
+    text-align: center;
+}

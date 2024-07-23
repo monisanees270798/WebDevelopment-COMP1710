@@ -1,0 +1,166 @@
+#index-gallery{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto ;
+    grid-gap:10px;
+    grid-template-areas:
+    "gallery-p gallery-p gallery-p gallery-p"
+    "gallery-h2 gallery-h2 gallery-h2 gallery-h2 "
+    "img1 img2 img3 img4"
+    "img5 img6 img7 img8"
+    "img9 img10 img11 img12"
+    "img13 img14 img15 img16"
+    "img17 img18 img19 img20"
+    "img21 img22 img23 img24"
+    "img25 img26 img27 img27";
+}
+
+#index-gallery .gallery-img {
+    width: 100%;
+    height:300px;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center;
+    cursor: pointer;
+}
+
+/* Images */
+#index-gallery p {
+    grid-area: gallery-p;
+}#index-gallery h2 {
+     grid-area: gallery-h2;}
+
+
+#index-gallery .img1 {
+    grid-area: img1;
+    background-image: url("ellie.comic/e1.PNG");
+}
+#index-gallery .img2 {
+    grid-area: img2;
+    background-image: url("ellie.comic/e2.PNG");
+}
+#index-gallery .img3 {
+    grid-area: img3;
+    background-image: url("ellie.comic/e3.PNG");
+
+}
+#index-gallery .img4 {
+    grid-area: img4;
+    background-image: url("ellie.comic/e4.PNG");
+}
+#index-gallery .img5 {
+    grid-area: img5;
+    background-image: url("ellie.comic/e5.PNG");
+}
+#index-gallery .img6 {
+    grid-area: img6;
+    background-image: url("ellie.comic/e6.PNG");
+}
+#index-gallery .img7 {
+    grid-area: img7;
+    background-image: url("ellie.comic/e7.PNG");
+}
+#index-gallery .img8 {
+    grid-area: img8;
+    background-image: url("ellie.comic/e8.PNG");
+}#index-gallery .img9 {
+     grid-area: img9;
+     background-image: url("ellie.comic/e9.PNG");
+ }#index-gallery .img10 {
+      grid-area: img10;
+      background-image: url("ellie.comic/e10.PNG");
+  }
+#index-gallery .img11 {
+    grid-area: img11;
+    background-image: url("ellie.comic/e11.PNG");
+}
+
+#index-gallery .img12 {
+    grid-area: img12;
+    background-image: url("ellie.comic/e12.PNG");
+}
+#index-gallery .img13 {
+    grid-area: img13;
+    background-image: url("ellie.comic/e13.PNG");
+
+}
+#index-gallery .img14 {
+    grid-area: img14;
+    background-image: url("ellie.comic/e14.PNG");
+}
+#index-gallery .img15 {
+    grid-area: img15;
+    background-image: url("ellie.comic/e15.PNG");
+}
+#index-gallery .img16 {
+    grid-area: img16;
+    background-image: url("ellie.comic/e16.PNG");
+}
+#index-gallery .img17 {
+    grid-area: img17;
+    background-image: url("ellie.comic/e17.PNG");
+}
+#index-gallery .img18 {
+    grid-area: img18;
+    background-image: url("ellie.comic/e18.PNG");
+}#index-gallery .img19 {
+     grid-area: img19;
+     background-image: url("ellie.comic/e19.PNG");
+ }#index-gallery .img20 {
+      grid-area: img20;
+      background-image: url("ellie.comic/e20.PNG");
+  }
+
+#index-gallery .img21 {
+    grid-area: img21;
+    background-image: url("ellie.comic/e21.PNG");
+}
+
+#index-gallery .img22 {
+    grid-area: img22;
+    background-image: url("ellie.comic/e22.PNG");
+}
+#index-gallery .img23 {
+    grid-area: img23;
+    background-image: url("ellie.comic/e23.PNG");
+   
+}
+#index-gallery .img24 {
+    grid-area: img24;
+    background-image: url("ellie.comic/e24.PNG");
+}
+#index-gallery .img25 {
+    grid-area: img25;
+    background-image: url("");
+}
+#index-gallery .img26 {
+    grid-area: img26;
+    background-image: url("");
+}
+#index-gallery .img27 {
+    grid-area: img27;
+    background-image: url("ellie.comic/e25.PNG");
+}
+/**/
+.gallery-img div{
+    width:100%;
+    height:100%;
+    background-color: #000000;
+    opacity: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery-img a{
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+.gallery-img div:hover {
+    opacity: 0.8;
+    transition: all ease-in-out 100ms;
+}

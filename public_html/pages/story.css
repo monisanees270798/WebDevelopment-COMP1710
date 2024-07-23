@@ -1,0 +1,32 @@
+*{
+    background-color: black;
+}
+
+#logo{
+    display: block;
+    margin-right: auto;margin-left: auto;
+}
+
+
+#song{
+    color: grey; font-size: 25px;
+}
+
+
+#intro{
+    text-align: right;margin-right: 5%;
+    font-family: Calibri; color: white;
+    padding: 10px;
+}
+#intro: hover{
+    background-color: white;
+    color: black;
+}
+#newdawn{
+    text-align: right;margin-right: 5%;
+    font-family: Calibri; color: white;
+}
+#newdawn: hover{
+    background-color: white;
+    color: black;
+}

@@ -1,0 +1,35 @@
+continuous improvement***
+Web Development and Design (COMP6780) a course that I was so nervous at the beginning of my second semester at ANU.
+I still remember my first lecture held by Ms Sabrina Caldwell (Course Convenor)  and Mr Tom Gedeon via Zoom on a Monday afternoon. 
+At the very beginning I was relieved when the course was announced to take place in Hybrid-mode.
+Initially, I was quite surprised when I got to know that students from almost every department at ANU enroled int his course.
+Sabrina and Tom assured us to stay updated with the course methodology to develop critical web development skills no matter if you have any experience or not.
+Myself, being from a non-web developer background felt very confident to pursue this course further.
+
+Afterwards, Sabrina introduced us with Socrative, it was an amazing platform for live-polling. It was one of the best in-class activity I loved to participate in.
+The poll consisted of recently taught concepts and some fun general knowledge questions. I still remember that "attention span of a Goldfish vs Human" question 
+that I got wrong, as Goldfish tend to have longer attention span than any user on a new webpage (hilarious right?). The amazing part was I still vividly remember all 
+answers and the fun conversations we had with Sabrina about the wrong attempts.
+
+For initial 6 weeks the course also reinforced with MOOC lessons, quizzes and lab activities using JS Bin. I miss those days. It was so fun to watch the basics
+with Tom's MOOC videos and sample JS Bin codes provided on Wattle. After completing that, I watched Sabrina's lecture again on echo360 before attempting weekly quizzes.
+The weekly quizzes were so awesome with the re-attempting feature, I could always learn about my wrong attempts and correct them right there.
+Starting from the basic full forms of HTML and CSS (HyperText Markup Language and Cascading Style Sheets) to advanced codes in even Javascripts,
+I got a firm grip on literally every concept.
+
+I could see myself engulfing with critical Web Development skills while creating my Assignments (1, 2, 3). It turned out so catchy and easy to operate with just any
+text editor and a web browser, that is literally all, I used to develop my website. Plus the freedom to choose my own topic to develop my website was such an amazing
+option, I visulaized so much about my content on my website in the first week, what will surprise you is that I implemented all my plans successfully, I designed
+every little bit I hoped at the beginning. (text over videos, hyperlinks, hover effects, source log management, feedback forms, tables, images, video editing and much more)
+
+I must say, I had some hurdles while designing my website, but I used to post my doubts on Piazza forum where my fellow classmates and instructors resolved 
+all my doubts within minutes.
+
+The last activity was participating in SONA surveys held by School of Psychology, ANU to research more about human-centered designing. The activities varied from
+basic QnA to some rapid-response games. It was such fun that I even earned more credit than required. 
+Later on, Sabrina taught us how to write a report reflecting on my survey experience and how such user-participation is critical for web design.
+My report followed a formal structure, thanks to Sabrina, cheers to it. The context of my report covers Human-Computer Interaction with the help of Agile Development.
+
+Ms Sabrina also said the skills to be tested in the final exams will be concepts, not live coding. That was such a great news that the exam is non-technical 
+and will take place remotely by Wattle Proctorio mode. 
+I feel so blessed to reflect back on my journey and incredible memories this course gave me. I am so proud of my choice, selecting COMP6780 as a course at ANU.

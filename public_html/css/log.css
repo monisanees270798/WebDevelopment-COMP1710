@@ -1,0 +1,19 @@
+
+/* Adds border to our table heading and table data */
+table, th, td {
+    border:1px solid black;
+}
+
+/* Style our heading h2*/
+h2{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-size: 2em;
+}
+/* hover option kinetics*/
+h2:hover{
+    color: black;
+    background-color: white;
+
+}

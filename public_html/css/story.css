@@ -1,0 +1,53 @@
+
+/* Applies color to entire webpage*/
+*{
+    background-color: black;
+}
+/* sets the game title logo at top*/
+#logo{
+    display: block;
+    margin-right: auto;margin-left: auto;
+}
+
+/* styles our instructions for audio playback*/
+#song{
+    color: grey; font-size: 25px;
+}
+
+/* style our heading h3 */
+h3{
+    text-align: center;
+    color: silver;
+}
+/* add kinetics to heading h3 */
+h3:hover{
+    color: black;
+    background-color: white;
+}
+/* Aligns audio bar at center*/
+#theme{
+margin-left: auto;margin-right: auto;
+}
+
+/* Adds style to entire paragraphs*/
+#intro{
+    text-align: right;margin-right: 5%;
+    font-family: Calibri; color: white;
+    padding: 10px;
+}
+#intro:hover{
+    background-color: white;
+    color: black;
+}
+#newdawn{
+    text-align: right;margin-right: 5%;
+    font-family: Calibri; color: white;
+}
+#newdawn:hover{
+    background-color: white;
+    color: black;
+}
+#outro{
+    color: white;
+    text-align: center;
+}
